@@ -1,13 +1,13 @@
 User-agent: *
 Allow: /
-
-# Disallow admin or private paths
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /private/
+Disallow: /*.json$
+Disallow: /*?*
 
-# Sitemap
-Sitemap: https://outbound-sdm.vercel.app/sitemap.xml
+# Sitemap location
+Sitemap: https://outboundtraining-sdmperusahaan.vercel.app/sitemap.xml
 
-# Crawl-delay
+# Slow down bots just a bit
 Crawl-delay: 10

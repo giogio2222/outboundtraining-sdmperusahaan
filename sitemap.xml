@@ -4,58 +4,58 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- Homepage -->
+  <!-- Homepage — Priority 1.0 -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/</loc>
-    <lastmod>2025-03-01</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Blog Page -->
+  <!-- Blog Index — Priority 0.9 -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/blog.html</loc>
-    <lastmod>2025-03-20</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/blog.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
-  <!-- Article 1 -->
+  <!-- Article 1: Manfaat Outbound Training -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/manfaat-outbound-training-sdm-perusahaan.html</loc>
-    <lastmod>2025-03-01</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/manfaat-outbound-training-sdm-perusahaan.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Article 2 -->
+  <!-- Article 2: Tips Memilih Program -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/tips-memilih-program-outbound-training-perusahaan.html</loc>
-    <lastmod>2025-03-05</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/tips-memilih-program-outbound-training-perusahaan.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Article 3 -->
+  <!-- Article 3: Leadership Outbound -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/outbound-training-leadership-membentuk-pemimpin-kuat.html</loc>
-    <lastmod>2025-03-10</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/outbound-training-leadership-membentuk-pemimpin-kuat.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Article 4 -->
+  <!-- Article 4: Aktivitas Outbound Terbaik -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/aktivitas-outbound-training-terbaik-team-building.html</loc>
-    <lastmod>2025-03-15</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/aktivitas-outbound-training-terbaik-team-building.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
-  <!-- Article 5 -->
+  <!-- Article 5: Mengukur Keberhasilan Outbound -->
   <url>
-    <loc>https://outbound-sdm.vercel.app/cara-mengukur-keberhasilan-program-outbound-training.html</loc>
-    <lastmod>2025-03-20</lastmod>
+    <loc>https://outboundtraining-sdmperusahaan.vercel.app/cara-mengukur-keberhasilan-program-outbound-training.html</loc>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
